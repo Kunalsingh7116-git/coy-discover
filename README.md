@@ -73,5 +73,3 @@ Rebuild after editing JSX. The API tests use an isolated database to check priva
 
 1. **Small-group plans.** Let users opt into a badminton game or café meetup with a fixed group size and an upfront per-person cost. This gives someone with few matches a concrete way to meet others. Offer a waitlist and collect payment only when enough people confirm.
 2. **Private invite preview.** Before a crush invite is shared, show exactly what the recipient will see and let the sender revoke the link. This helps the sender decide whether a forwarded invite could reveal more than they intended.
-
-These are proposals pending a firsthand walkthrough of Coy’s phone OTP, crush, verification, invite, and extra-slot flows.
