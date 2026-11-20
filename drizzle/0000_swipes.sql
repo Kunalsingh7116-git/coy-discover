@@ -1,0 +1,1 @@
+CREATE TABLE swipes (id INTEGER PRIMARY KEY, direction TEXT NOT NULL);
